@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CMA654
-- 👀 I’m interested in Data Scientist
+- 👀 I’m interested in Data Scientist, Econometrics Research.
 - 🌱 I’m currently learning SQL, Excel and Power BI
 - 📫 How to reach me: Not brave enough
 - ⚡ "Fun" fact: I got Asperger =_=
